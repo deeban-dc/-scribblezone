@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class inputs_with_arrays {
@@ -15,11 +16,17 @@ public class inputs_with_arrays {
             arr1[i] = in.nextInt();
         }
 
-        for(int i = 0; i < arr1.length;  i++) {
-            System.out.println(arr1[i]);
+        //for(int i = 0; i < arr1.length;  i++) {
+          //  System.out.println(arr1[i]);
+
+//        for (int num: arr1) {                      //foreach loop syntax == for(datatype refvar : array){....};
+//            System.out.println(num);               //for every element in array , print the element
+
+        System.out.println(Arrays.toString(arr1)); //pucca
+
         }
-    }
-}
+        }
+
 
 //When you use arr1 without specifying an index,
 // it is interpreted as a reference to the entire array object rather than a reference to an individual element of the array.
