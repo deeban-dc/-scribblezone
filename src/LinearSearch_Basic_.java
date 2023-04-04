@@ -5,12 +5,12 @@ public class LinearSearch_Basic_ {
         int ans = linearsearchinarray(nums,target);
         System.out.println(ans);
     }
-    static int linearsearchinarray(int[] nums, int target) {
-        if(nums.length==0) return -1;
+    static int linearsearchinarray(int[] arr, int target) {
+        if(arr.length==0) return -1;
 
         //loop
-        for (int index = 0; index < nums.length; index++) {
-            int element = nums[index];
+        for (int index = 0; index < arr.length; index++) {
+            int element = arr[index];
             if(element == target){
                 return index;
             }
