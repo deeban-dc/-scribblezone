@@ -9,7 +9,7 @@ public class Binary_search_basic {
          ////BINARY SEARCH ALGORITHM FOR ASCENDING SORTED ARRAY
     static int BinarySearchacending(int[] arr , int target){
         int start = 0;
-        int end = arr.length-1;
+        int end = arr.length- 1;
 
         while (start <= end){
             int mid = start + (end - start)/2;

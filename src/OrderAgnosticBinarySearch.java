@@ -1,7 +1,7 @@
 public class OrderAgnosticBinarySearch {
     public static void main(String[] args) {
-       //asc    int[] arr = {-18, -9, -3, 0, 6, 13, 55, 121, 322, 1233, 12323, 64343};
-       //desc   int[] arr = {9059 , 897 , 455, 345, 222, 200, 108, 33, , 4, 0, -7};
+           int[] arr = {-18, -9, -3, 0, 6, 13, 55, 121, 322, 1233, 12323, 64343}; //asc
+          //    int[] arr = {9059 , 897 , 455, 345, 222, 200, 108, 33, , 4, 0, -7};     //decs
         int target = -9;
 
         int ans = OrderAgnosticBS(arr, target);
