@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/FgM2GJJ/Whats-App-Image-2023-06-03-at-9-33-51-PM.jpg" alt="Whats-App-Image-2023-06-03-at-9-33-51-PM" border="0">
+<a href="https://ibb.co/nzv9hff"><img src="https://i.ibb.co/FgM2GJJ/Whats-App-Image-2023-06-03-at-9-33-51-PM.jpg" alt="Whats-App-Image-2023-06-03-at-9-33-51-PM" border="0"></a>
 
 public class Ceiling {
     public static void main(String[] args){
