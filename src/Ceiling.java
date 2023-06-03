@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/FgM2GJJ/Whats-App-Image-2023-06-03-at-9-33-51-PM.jpg" alt="Whats-App-Image-2023-06-03-at-9-33-51-PM" border="0">
+
 public class Ceiling {
     public static void main(String[] args){
         int[] arr = {-18, -9, -3, 0, 6, 13, 55, 121, 322, };
