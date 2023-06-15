@@ -1,3 +1,5 @@
+https://ibb.co/nzv9hff
+
 public class Ceiling {
     public static void main(String[] args){
         int[] arr = {-18, -9, -3, 0, 6, 13, 55, 121, 322, };
