@@ -1,3 +1,6 @@
+https://i.ibb.co/4jjbRFj/Screenshot-298.png
+
+
 public class BinarySearchInSortedInfiniteArray {
 
         public static void main(String[] args) {
