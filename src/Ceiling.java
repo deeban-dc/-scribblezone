@@ -1,4 +1,4 @@
-https://ibb.co/nzv9hff
+// https://ibb.co/nzv9hff
 
 public class Ceiling {
     public static void main(String[] args){
